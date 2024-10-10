@@ -1,7 +1,7 @@
-# projeto-landing-page.pdf
+#landing-page.pdf
 
 <h3>descricao</h3>
-Este é o projeto de  desenvolvimento html e css
+Esse é uma landing page que ao clicar ira direcionar a um E-book
 
 # link do site
 https://landing-page-vendas-pdf.netlify.app
