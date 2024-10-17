@@ -34,4 +34,7 @@ https://landing-page-vendas-pdf.netlify.app
 
 ###
 
+### versão Desktop
+![Capturar](https://github.com/user-attachments/assets/bcff20f9-cbec-449a-b9b1-379633a241ab)
+
 
